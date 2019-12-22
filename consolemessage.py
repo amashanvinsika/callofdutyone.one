@@ -1,5 +1,6 @@
 # Auto rotating console messages 
 # For Call of Duty v1.1
+#A m a s h a n#
 
 import socket
 import time
